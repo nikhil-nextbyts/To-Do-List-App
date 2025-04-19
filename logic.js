@@ -80,10 +80,6 @@ move.forEach(x => {
 });
 
 
-/* taskElement.classList.add("done");
-taskElement.querySelector(".radio").disabled = true; // Disable radio button
-done_container.appendChild(taskElement); */
-
 // logic for clear all data
 
 const clear_btn = document.querySelector("#clear_btn");
